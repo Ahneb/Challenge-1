@@ -3,7 +3,7 @@ Simple webpage design that allows for hyperlinked sections.
 
 Website design by [@Xandromus](https://github.com/Xandromus)
 
-URL: 
+URL: https://ahneb.github.io/Horiseon-Webpage/
 
 ![Horiseon Preview](assets/images/Horiseon%20Preview.jpg)
 
