@@ -25,3 +25,7 @@ style.css
 misc
 - Added Horiseon preview image for readme file
 - Added readme file
+
+## Tasks
+- Create better formatting to align contents and sidebar box sizes
+- Edit navigation bar to allow for elements to properly align when screen gets smaller
