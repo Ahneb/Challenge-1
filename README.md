@@ -5,7 +5,7 @@ Website design by [@Xandromus](https://github.com/Xandromus)
 
 URL: 
 
-![Horiseon Preview](Develop/assets/images/Horiseon%20Preview.jpg)
+![Horiseon Preview](assets/images/Horiseon%20Preview.jpg)
 
 
 ## Change Log
