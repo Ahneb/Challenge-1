@@ -10,6 +10,15 @@ URL: https://ahneb.github.io/Horiseon-Webpage/
 
 ## Change Log
 
+9/19/22
+Files
+- deleted developer folder to allow github pages to read html file
+
+misc
+- Added Horiseon preview image for readme file
+- Wrote readme file information
+- Launched github page url for repo
+
 9/18/22
 
 index.html
@@ -23,8 +32,7 @@ style.css
 - Added comments to make finding groupings easiers
 
 misc
-- Added Horiseon preview image for readme file
-- Added readme file
+- added a readme file
 
 ## Tasks
 - Create better formatting to align contents and sidebar box sizes
