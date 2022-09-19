@@ -11,6 +11,7 @@ URL: https://ahneb.github.io/Horiseon-Webpage/
 ## **Change Log**
 
 **9/19/22**
+
 Files
 - deleted developer folder to allow github pages to read html file
 
