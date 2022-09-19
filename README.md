@@ -8,9 +8,9 @@ URL: https://ahneb.github.io/Horiseon-Webpage/
 ![Horiseon Preview](assets/images/Horiseon%20Preview.jpg)
 
 
-## Change Log
+## **Change Log**
 
-9/19/22
+**9/19/22**
 Files
 - deleted developer folder to allow github pages to read html file
 
@@ -19,7 +19,7 @@ misc
 - Wrote readme file information
 - Launched github page url for repo
 
-9/18/22
+**9/18/22**
 
 index.html
 - Renamed major tags to allow for readability
