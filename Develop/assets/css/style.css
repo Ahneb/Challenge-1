@@ -106,6 +106,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Sidebar class styling*/
 .sidebar div {
     margin-bottom: 32px;
     color: #ffffff;
@@ -122,6 +123,7 @@ p {
     max-width: 150px;
 }
 
+/*Footer class styling*/
 .footer {
     padding: 30px;
     clear: both;
@@ -129,6 +131,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
